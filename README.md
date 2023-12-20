@@ -1,6 +1,5 @@
 <a href="https://github.com/mgallardo1000/Portfolio">
-    <img src="https://img.shields.io/badge/Click_Here_For_a_Direct_Link_to_my_GitHub_Portfolio-282A36
-" />
+    <img src="https://img.shields.io/badge/Click_Here_For_a_Direct_Link_to_my_GitHub_Portfolio-282A36" />
 </a>
 
 ![](https://github.com/mgallardo1000/mgallardo1000/blob/dba5340c87de9d9c98f3646ded300965a02e67b2/MarianaBanner.png)
