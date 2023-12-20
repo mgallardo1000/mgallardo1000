@@ -2,6 +2,12 @@
 
 ### Feel free to also look at my GitHub Portfolio! 👋
 
+
+
+<a href="https://github.com/mgallardo1000/Portfolio">
+    <img src="https://img.shields.io/badge/Direct_Link_to_GitHub_Portfolio-282A36" />
+</a>
+
 <!--
 **mgallardo1000/mgallardo1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Direct_Link_to_GitHub_Portfolio-282A36
 -->
