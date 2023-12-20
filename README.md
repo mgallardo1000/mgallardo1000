@@ -1,4 +1,4 @@
-![](https://github.com/mgallardo1000/mgallardo1000/blob/6e5c3306c2b25c941647f49c40c2cc5512a29070/Gallardo%20Banner.png)
+![]()
 
 ### Hi there 👋
 
